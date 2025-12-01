@@ -85,10 +85,6 @@ Create admin user and sample products:
 npx tsx prisma/seed.ts
 ```
 
-This will create:
-- **Admin user**: admin@amlfraud.com / Admin@123
-- **6 sample products** with pricing
-
 ### 5. Start Development Server
 
 ```bash
