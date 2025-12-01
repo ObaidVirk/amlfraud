@@ -1,0 +1,16 @@
+{
+  "nav": {
+    "products": "Produkty",
+    "solutions": "Rozwiązania",
+    "resources": "Zasoby",
+    "company": "Firma",
+    "login": "Zaloguj się",
+    "signup": "Zarejestruj się",
+    "signout": "Wyloguj się",
+    "dashboard": "Panel",
+    "requestDemo": "Poproś o demo"
+  },
+  "home": {
+    "heroTitle": "Inteligencja Blockchain dla zgodności z przepisami krypto"
+  }
+}

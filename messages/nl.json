@@ -1,0 +1,16 @@
+{
+  "nav": {
+    "products": "Producten",
+    "solutions": "Oplossingen",
+    "resources": "Bronnen",
+    "company": "Bedrijf",
+    "login": "Inloggen",
+    "signup": "Aanmelden",
+    "signout": "Uitloggen",
+    "dashboard": "Dashboard",
+    "requestDemo": "Demo aanvragen"
+  },
+  "home": {
+    "heroTitle": "Blockchain Intelligence voor Crypto Compliance"
+  }
+}

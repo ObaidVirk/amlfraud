@@ -1,0 +1,16 @@
+{
+  "nav": {
+    "products": "製品",
+    "solutions": "ソリューション",
+    "resources": "リソース",
+    "company": "会社",
+    "login": "ログイン",
+    "signup": "サインアップ",
+    "signout": "ログアウト",
+    "dashboard": "ダッシュボード",
+    "requestDemo": "デモをリクエスト"
+  },
+  "home": {
+    "heroTitle": "暗号資産コンプライアンスのためのブロックチェーンインテリジェンス"
+  }
+}

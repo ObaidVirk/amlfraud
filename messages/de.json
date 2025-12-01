@@ -1,0 +1,16 @@
+{
+  "nav": {
+    "products": "Produkte",
+    "solutions": "Lösungen",
+    "resources": "Ressourcen",
+    "company": "Unternehmen",
+    "login": "Anmelden",
+    "signup": "Registrieren",
+    "signout": "Abmelden",
+    "dashboard": "Dashboard",
+    "requestDemo": "Demo anfordern"
+  },
+  "home": {
+    "heroTitle": "Blockchain-Intelligenz für Krypto-Compliance"
+  }
+}

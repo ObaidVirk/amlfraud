@@ -1,0 +1,16 @@
+{
+  "nav": {
+    "products": "Produk",
+    "solutions": "Penyelesaian",
+    "resources": "Sumber",
+    "company": "Syarikat",
+    "login": "Log Masuk",
+    "signup": "Daftar",
+    "signout": "Log Keluar",
+    "dashboard": "Papan Pemuka",
+    "requestDemo": "Minta Demo"
+  },
+  "home": {
+    "heroTitle": "Risikan Blockchain untuk Pematuhan Kripto"
+  }
+}

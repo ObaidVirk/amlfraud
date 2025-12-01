@@ -1,0 +1,16 @@
+{
+  "nav": {
+    "products": "Produk",
+    "solutions": "Solusi",
+    "resources": "Sumber Daya",
+    "company": "Perusahaan",
+    "login": "Masuk",
+    "signup": "Daftar",
+    "signout": "Keluar",
+    "dashboard": "Dasbor",
+    "requestDemo": "Minta Demo"
+  },
+  "home": {
+    "heroTitle": "Intelijen Blockchain untuk Kepatuhan Kripto"
+  }
+}

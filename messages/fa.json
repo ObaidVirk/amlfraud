@@ -1,0 +1,16 @@
+{
+  "nav": {
+    "products": "محصولات",
+    "solutions": "راه حل ها",
+    "resources": "منابع",
+    "company": "شرکت",
+    "login": "ورود",
+    "signup": "ثبت نام",
+    "signout": "خروج",
+    "dashboard": "داشبورد",
+    "requestDemo": "درخواست دمو"
+  },
+  "home": {
+    "heroTitle": "هوش بلاک چین برای انطباق با ارزهای دیجیتال"
+  }
+}

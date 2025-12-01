@@ -1,0 +1,16 @@
+{
+  "nav": {
+    "products": "产品",
+    "solutions": "解决方案",
+    "resources": "资源",
+    "company": "公司",
+    "login": "登录",
+    "signup": "注册",
+    "signout": "退出",
+    "dashboard": "仪表盘",
+    "requestDemo": "申请演示"
+  },
+  "home": {
+    "heroTitle": "用于加密合规的区块链智能"
+  }
+}

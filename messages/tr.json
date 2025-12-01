@@ -1,0 +1,16 @@
+{
+  "nav": {
+    "products": "Ürünler",
+    "solutions": "Çözümler",
+    "resources": "Kaynaklar",
+    "company": "Şirket",
+    "login": "Giriş Yap",
+    "signup": "Kaydol",
+    "signout": "Çıkış Yap",
+    "dashboard": "Panel",
+    "requestDemo": "Demo İste"
+  },
+  "home": {
+    "heroTitle": "Kripto Uyumluluğu için Blockchain İstihbaratı"
+  }
+}
